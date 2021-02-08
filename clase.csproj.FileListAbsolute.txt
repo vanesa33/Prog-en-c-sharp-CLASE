@@ -1,0 +1,11 @@
+C:\Users\Ivanesa\source\repos\clase\clase\bin\Debug\netcoreapp3.1\clase.exe
+C:\Users\Ivanesa\source\repos\clase\clase\bin\Debug\netcoreapp3.1\clase.deps.json
+C:\Users\Ivanesa\source\repos\clase\clase\bin\Debug\netcoreapp3.1\clase.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\clase\clase\bin\Debug\netcoreapp3.1\clase.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\clase\clase\bin\Debug\netcoreapp3.1\clase.dll
+C:\Users\Ivanesa\source\repos\clase\clase\bin\Debug\netcoreapp3.1\clase.pdb
+C:\Users\Ivanesa\source\repos\clase\clase\obj\Debug\netcoreapp3.1\clase.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\clase\clase\obj\Debug\netcoreapp3.1\clase.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\clase\clase\obj\Debug\netcoreapp3.1\clase.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\clase\clase\obj\Debug\netcoreapp3.1\clase.dll
+C:\Users\Ivanesa\source\repos\clase\clase\obj\Debug\netcoreapp3.1\clase.pdb
